@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hand of God</string>
+    <string name="powered_by">ToolAid powered by Felony logic</string>
+    <string name="accessibility_service_description">Hand of God accessibility service: ghost typing for ToolAid/Felony</string>
+</resources>

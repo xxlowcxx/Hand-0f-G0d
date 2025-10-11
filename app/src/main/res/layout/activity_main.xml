@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/brandingText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hand of God
+Powered by ToolAid x Felony logic"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/commandInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Paste or type Felony command here"
+        android:minHeight="120dp"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:background="@android:drawable/editbox_background_normal"/>
+
+    <Button
+        android:id="@+id/runButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Run with Face Unlock"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

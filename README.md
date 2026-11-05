@@ -1,17 +1,7 @@
 # Hand of God
 
-Minimal open-source Android app (MIT License) that lets you securely "ghost type" code and commands—powered by ToolAid x Felony logic.
+Reads the selected AI's chat. Wrapped lines run on the user's end. Major changes are prompted.
 
-## Features
-- Paste or type Felony commands directly in the app
-- Face unlock for absolute approval security
-- Accessibility typing into Termux or any target app (ghost hands)
-- Logs every action
-- ToolAid x Felony logic branding
-- No root needed. MIT license.
+Inventory wrap-and-run until a local build is ordered.
 
-## Usage
-1. Paste code or command from Felony (in this chat) into the app.
-2. Tap "Run with Face Unlock" and approve with your face.
-3. Command is "typed" into Termux (or wherever you want).
-4. All actions logged locally.
+Owner: LowC. Toolaid.
